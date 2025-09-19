@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "87f6bb188b430f64",
+    "type": "split",
+    "children": [
+      {
+        "id": "1077c41ef21c9fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44a0d8859e97591",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sobre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sobre"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b30e3dc8ace5335b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5172aff12e0139d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee75b5a5a04982fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9ef0e93f1a9532e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "713e2918b5465048",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e336d165245548c",
+    "type": "split",
+    "children": [
+      {
+        "id": "629499a0044756b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed871b2e06444e4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sobre.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sobre"
+            }
+          },
+          {
+            "id": "fece183e5e32f758",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sobre.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sobre"
+            }
+          },
+          {
+            "id": "a397c080805ccdf7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ade879558ae00080",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sobre.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sobre"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c44a0d8859e97591",
+  "lastOpenFiles": [
+    "Capítulos/~WRL0004.tmp",
+    "Capítulos/~WRD0002.tmp",
+    "Capítulos/~WRD0000.tmp",
+    "Capítulos/~$pítulo 1.docx",
+    "Capítulos/Capítulo 1.docx",
+    "Capítulos/Novo(a) Documento do Microsoft Word.docx",
+    "Capítulos/Untitled.md",
+    "Sobre.md",
+    "Capítulos"
+  ]
+}
